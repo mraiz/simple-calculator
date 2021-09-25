@@ -1,4 +1,4 @@
-# nusanet-job-test
+# Simple Calculator
 
 ## Project setup
 ```
